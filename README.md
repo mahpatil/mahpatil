@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data AI/ML using Python
 - 💞️ I’m looking to collaborate on various aspects of AWS, Azure, Data AI/ML, Microservices
 - 📫 How to reach me 
-  - https://inspiredbytech.info
   - https://uk.linkedin.com/in/inspiredbytech
 
 <!---
