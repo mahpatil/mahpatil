@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mahesh Patil
 
-**🚀 Empowering teams to build secure, resilient, AI‑native products in regulated environments.**
+**🚀 AI Native engineering, empowering teams to build secure, resilient, AI‑native products in regulated environments.**
 
 I help business and technology leaders go from product vision to operating at scale – simplifying compliance, accelerating delivery, and optimising cloud costs.
 
